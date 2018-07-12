@@ -1,5 +1,9 @@
 # Installation
+    uname -r
+    
+    pip3 install vibora
+    
     git clone https://github.com/vibora-io/vibora
-    pip install -r requirements.txt
-    python build.py
-    python setup.py install
+    pip3 install -r requirements.txt
+    python3 build.py
+    python3 setup.py install
